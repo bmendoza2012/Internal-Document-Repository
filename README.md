@@ -1,1 +1,2 @@
-
+The repository created for business allows users to access necessary information in PDF format easily. The website separates departments into categories: HR, LOB Files (Line of Business), and Tools and Utilities, as well as Administration and IT. The categories contain essential documents such as time-off requests and 
+W-4s. A website has been developed for this project to simplify the process of finding important information. HR and administrators can access all forms and guidelines from this website. Organizing the repository is made efficient by utilizing GitHub as the source for document management.
